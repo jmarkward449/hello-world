@@ -1,3 +1,3 @@
 # hello-world
-Bash my head into desk I will
-My name is Jacob. I need therapy. Programming is fun.
+This is GitHub thing
+My name is Jacob. Programming is fun.
